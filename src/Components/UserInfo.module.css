@@ -1,0 +1,23 @@
+img{
+    border-radius: 50% ;
+    width:80px
+}
+
+.usesInfo{
+    display:flex
+}
+
+.repoCard{
+    display:flex;
+    width:500px
+    
+}
+
+.repoCard *{
+    text-align: left;
+}
+
+.repoDetails{
+    display: flex;
+    justify-content: center;
+}
