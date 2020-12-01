@@ -21,3 +21,8 @@ img{
     display: flex;
     justify-content: center;
 }
+
+.details{
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
